@@ -1,0 +1,7 @@
+platform :ios, '7.0'
+
+pod 'TSMessages'
+
+target :CTMessageCenterSampleTests do
+  pod 'Kiwi/XCTest'
+end
